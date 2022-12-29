@@ -24,32 +24,11 @@ body{
   position: relative;
 	}
 }
-	.menu-area {
-		float: none;
-		text-align: center;
-		margin: 0;
-	}
-	.menu-area li {
-		margin: 0;
-	}
-	.menu-area li a {
-		padding: 5px 2px;
-		font-size: 12px;
-	}
-	.logo {
-		margin: 5px 0;
-		font-size: 35px;
-		height: 45px;
-	}
-	.nav-area {
-		height: 90px;
-	}
-.nav-area {
-	background: rgba(0, 0, 0, 0.7);
-	height: 60px;
-	position: absolute;
-	width: 100%;
-	}
+.menu-area {
+	float: right;
+	list-style: none;
+	margin: 20px;
+}
 .menu-area li {
 	display: inline-block;
 	margin: 0 5px;
@@ -65,8 +44,20 @@ body{
 }
 .menu-area li a:hover {
 	color: deepskyblue;
+	}
+.nav-area {
+	background: rgba(0, 0, 0, 0.7);
+	height: 60px;
+	position: absolute;
+	width: 100%;
 }
-
+.logoo {
+	margin: 10px 50px;
+	height: 60px;
+	float: left;
+	color: #fff;
+	font-size: 35px;
+	text-transform: capitalize;
 .title h1{
   color: #535274;
   letter-spacing: 5px;
