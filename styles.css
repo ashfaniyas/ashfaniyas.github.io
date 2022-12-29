@@ -23,6 +23,27 @@ body{
   border-radius: 30px;
   position: relative;
 	}
+}
+	.menu-area {
+		float: none;
+		text-align: center;
+		margin: 0;
+	}
+	.menu-area li {
+		margin: 0;
+	}
+	.menu-area li a {
+		padding: 5px 2px;
+		font-size: 12px;
+	}
+	.logo {
+		margin: 5px 0;
+		font-size: 35px;
+		height: 45px;
+	}
+	.nav-area {
+		height: 90px;
+	}
 .nav-area {
 	background: rgba(0, 0, 0, 0.7);
 	height: 60px;
