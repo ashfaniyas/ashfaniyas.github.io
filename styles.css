@@ -13,6 +13,12 @@ body{
 	background-image: url(../background.jpg);
 	background-size: cover;
 	background-position: center;
+	}
+.welcome-text h2 {
+	color: #fff;
+	font-size: 80px;
+	margin: 0;
+	font-family: Berkshire Swash;
 }
 
 .contact-us{
