@@ -25,6 +25,20 @@
 }
 .menu-area li a:hover {
 	color: deepskyblue;
+	}
+.nav-area {
+	background: rgba(0, 0, 0, 0.7);
+	height: 60px;
+	position: absolute;
+	width: 100%;
+}
+.logoo {
+	margin: 10px 50px;
+	height: 60px;
+	float: left;
+	color: #fff;
+	font-size: 35px;
+	text-transform: capitalize;
 }
 .hero{
 	height: 100vh;
