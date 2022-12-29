@@ -16,7 +16,7 @@ body{
 }
 
 .contact-us{
-  width: 250px;
+  width: 450px;
   background:  #fff;
   padding: 50px;
   margin: 100px auto;
@@ -84,7 +84,7 @@ body{
   position: absolute;
   bottom: -25px;
   left: 50%;
-  width: 200px;
+  width: 400px;
   transform: translateX(-50%);
   display: flex;
   justify-content: space-around;
