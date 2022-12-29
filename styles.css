@@ -22,6 +22,22 @@ body{
   margin: 100px auto;
   border-radius: 30px;
   position: relative;
+	}
+.menu-area li {
+	display: inline-block;
+	margin: 0 5px;
+}
+.menu-area li a {
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 10px;
+	letter-spacing: 2px;
+}
+.menu-area li.active a {
+	color: deepskyblue;
+}
+.menu-area li a:hover {
+	color: deepskyblue;
 }
 
 .title h1{
