@@ -3,6 +3,13 @@
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
+	
+}
+.menu-area {
+	float: right;
+	list-style: none;
+	margin: 20px;
+
 }
 .hero{
 	height: 100vh;
