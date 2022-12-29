@@ -23,6 +23,12 @@ body{
   border-radius: 30px;
   position: relative;
 	}
+.nav-area {
+	background: rgba(0, 0, 0, 0.7);
+	height: 60px;
+	position: absolute;
+	width: 100%;
+	}
 .menu-area li {
 	display: inline-block;
 	margin: 0 5px;
